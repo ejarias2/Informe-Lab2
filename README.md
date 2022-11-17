@@ -48,6 +48,7 @@ Podemos darnos cuenta que como resultado del análisis de las mallas obtuvimos u
 ![image](https://user-images.githubusercontent.com/116779906/202574438-8afa1581-a109-4528-b260-1c86400809f4.png)
 
 *Tabla de los resultados analíticos y medidos 
+
 ![image](https://user-images.githubusercontent.com/116779906/202575574-6e58fe7d-9375-42f3-8734-2cc0414f9755.png)
 
 
