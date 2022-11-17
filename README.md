@@ -2,13 +2,15 @@
 ## 1. OBJETIVOS
 
    1.1 GENERAL
- Comprobarue el analisis de las mallas experimentando coon un circuito  en donde debemos determinar sus mallas y la intensidad que pasan por estas mismo, basandonos en la ley de corrientes de kirchhoff.
+ Comprobar el análisis de las mallas experimentando con un circuito en donde debemos determinar sus mallas y la intensidad que pasan por estas mismo, basándonos en la ley de corrientes de Kirchhoff.
 
    1.2 ESPECÍFICOS
    
-* Aplicar el análisis de mallas como una técnica del uso de las leyes de Kirchhoff, con el fin de expresar los voltajes de un circuito en función de sus corrientes.  
-* Identificar la diferencia entre un circuito cerrado y una malla, mediante el análisis de mallas.
-* Definir un sistema de ecuaciones mediante el análisis de mallas y las leyes de Kirchhoff, con el fin de resolver un circuito eléctrico.   
+
+*  Aplicar el análisis de mallas usando las leyes de Kirchhoff que ya conocemos para encontrar las distintas corrientes de un circuito.
+* Ser capaces de identificar las mallas dentro de un circuito.
+* Ayudarnos a la resolución del circuito usando un sistema de ecuaciones que nos resultará del análisis de las mallas y el uso de las leyes de Kirchhoff.
+   
 
 ## 2. MARCO TEÓRICO
 A continuación se detalla la terminología de conceptos claves que se utilizan en los circuitos eléctricos que ayudan a plantear el análisis de mallas de un circuito adecuado.
@@ -31,21 +33,23 @@ Para comenzar identificaremos nuestras mallas y le daremos nombre a las corrient
 
 Como segundo paso tenemos que analizar cada malla encontrada en el circuito anteriormente
 
-*MALLA 1
+* MALLA 1
 ![image](https://user-images.githubusercontent.com/116779906/202570026-60c7985a-fe17-4e17-9adc-b0bc6a0a584e.png)
 
-*MALLA 2 
+* MALLA 2
 ![image](https://user-images.githubusercontent.com/116779906/202570072-32cc663d-993a-4b3f-a849-d1f3c313cd92.png)
 
 
-*MALLA 3 
+* MALLA 3
 ![image](https://user-images.githubusercontent.com/116779906/202570119-6b4ab084-0909-4603-bfab-b6cb7334147e.png)
 
 Podemos darnos cuenta que como resultado del análisis de las mallas obtuvimos un sistema de 3 ecuaciones con 3 incógnitas, para la resolución de esto utilizaremos una calculadora de ecuaciones en linea para obtener un resuLtado exacto 
 
 ![image](https://user-images.githubusercontent.com/116779906/202574438-8afa1581-a109-4528-b260-1c86400809f4.png)
 
-*Tabla de los resultados analíticos y medidos 
+
+•	Tabla de los resultados analíticos y medidos .
+
 
 ![image](https://user-images.githubusercontent.com/116779906/202575574-6e58fe7d-9375-42f3-8734-2cc0414f9755.png)
 
@@ -55,8 +59,8 @@ Podemos darnos cuenta que como resultado del análisis de las mallas obtuvimos u
 
 
 ## 5. CONCLUSIONES
-* Analizar las mallas es muy útil para la resolución circuits cerrados .
-*El análisis de mallas nos permite plantear sistemas de ecuaciones para determinar los valores ya sea de intensidad de corriente, voltaje o resistencia de un mismo circuito en sus distintas mallas.
+* Analizar las mallas es muy útil para la resolución circuits cerrados 
+* El análisis de mallas nos permite plantear sistemas de ecuaciones para determinar los valores ya sea de intensidad de corriente, voltaje o resistencia de un mismo circuito en sus distintas mallas.
 ## 6. BIBLIOGRAFÍA 
 * Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson
 
