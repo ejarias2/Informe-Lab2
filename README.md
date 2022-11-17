@@ -2,8 +2,7 @@
 ## 1. OBJETIVOS
 
    1.1 GENERAL
-
-Identificar el funcionamiento de las mallas y su relacion con el estudio de los circuitos cerrados, mediante la elaboraccion de la Práctica N°2 de laboratorio, con el fin de complementar el analisis de los circuitos electicos.  
+ Comprobarue el analisis de las mallas experimentando coon un circuito  en donde debemos determinar sus mallas y la intensidad que pasan por estas mismo, basandonos en la ley de corrientes de kirchhoff.
 
    1.2 ESPECÍFICOS
    
@@ -12,8 +11,7 @@ Identificar el funcionamiento de las mallas y su relacion con el estudio de los 
 * Definir un sistema de ecuaciones mediante el análisis de mallas y las leyes de Kirchhoff, con el fin de resolver un circuito eléctrico.   
 
 ## 2. MARCO TEÓRICO
-En el presente informe es fundamente la aplicación de las leyes de Kirchhoff,en resumen la primera ley dice que la suma de las corrientes que ingresan en un nodo del circuito debe ser igual a la suma de todas las corrientes que se expulsan del nodo.En cuanto a la segunda ley enuncia que la suma de todas las tensiones positivas en malla debe igualarse a la suma de las tensiones negativas lo que son las caídas de tensión en sentido contrario.
-A continuación se detalla la terminología de conceptos claves que se utilizan en los circuitos eléctricos que ayudan a plantear el análisis adecuado.
+A continuación se detalla la terminología de conceptos claves que se utilizan en los circuitos eléctricos que ayudan a plantear el análisis de mallas de un circuito adecuado.
 
 ![1 1](https://user-images.githubusercontent.com/93666408/142980693-852078d3-baa5-4873-b11a-997cffb76891.jpg)
 ![1 2](https://user-images.githubusercontent.com/93666408/142980700-a5dab538-0a57-443b-be35-01010500e1fd.jpg)
@@ -57,8 +55,8 @@ Podemos darnos cuenta que como resultado del análisis de las mallas obtuvimos u
 
 
 ## 5. CONCLUSIONES
-* El análisis de mallas es una poderosa herramienta para la resolución y el análisis de circuitos eléctricos pequeños.
-* Gracias a que podemos expresar los voltajes en función de las corrientes, el análisis de mallas nos permite determinar el valor de las intensidades mediante el análisis y la elaboración de un sistema de ecuaciones a partir de las mallas.
+* Analizar las mallas es muy útil para la resolución circuits cerrados .
+*El análisis de mallas nos permite plantear sistemas de ecuaciones para determinar los valores ya sea de intensidad de corriente, voltaje o resistencia de un mismo circuito en sus distintas mallas.
 ## 6. BIBLIOGRAFÍA 
 * Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson
 
