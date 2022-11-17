@@ -24,7 +24,31 @@ Para el análisis de mallas solo es necesaria la segunda Ley de Kirchhoff por lo
 
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
+Para comenzar identificaremos nuestras mallas y le daremos nombre a las corrientes que pasan por las mismas
 
+![image](https://user-images.githubusercontent.com/116779906/202569910-bc1683e1-5804-426f-8a92-69719e36ec90.png)
+
+![image](https://user-images.githubusercontent.com/116779906/202569959-788dd807-6292-496f-8e2c-9922e9e40186.png)
+
+
+Como segundo paso tenemos que analizar cada malla encontrada en el circuito anteriormente
+
+*MALLA 1
+![image](https://user-images.githubusercontent.com/116779906/202570026-60c7985a-fe17-4e17-9adc-b0bc6a0a584e.png)
+
+*MALLA 2 
+![image](https://user-images.githubusercontent.com/116779906/202570072-32cc663d-993a-4b3f-a849-d1f3c313cd92.png)
+
+
+*MALLA 3 
+![image](https://user-images.githubusercontent.com/116779906/202570119-6b4ab084-0909-4603-bfab-b6cb7334147e.png)
+
+Podemos darnos cuenta que como resultado del análisis de las mallas obtuvimos un sistema de 3 ecuaciones con 3 incógnitas, para la resolución de esto utilizaremos una calculadora de ecuaciones en linea para obtener un resuLtado exacto 
+
+![image](https://user-images.githubusercontent.com/116779906/202574438-8afa1581-a109-4528-b260-1c86400809f4.png)
+
+*Tabla de los resultados analíticos y medidos 
+![image](https://user-images.githubusercontent.com/116779906/202575574-6e58fe7d-9375-42f3-8734-2cc0414f9755.png)
 
 
 ## 4. VIDEO
