@@ -2,7 +2,8 @@
 ## 1. OBJETIVOS
 
    1.1 GENERAL
- Comprobar el análisis de las mallas experimentando con un circuito en donde debemos determinar sus mallas y la intensidad que pasan por estas mismo, basándonos en la ley de corrientes de Kirchhoff.
+   
+ * Comprobar el análisis de las mallas experimentando con un circuito en donde   debemos  determinar sus mallas y la intensidad que pasan por estas mismo, basándonos en la ley de corrientes de Kirchhoff.
 
    1.2 ESPECÍFICOS
    
