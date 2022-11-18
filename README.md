@@ -35,13 +35,16 @@ Para comenzar identificaremos nuestras mallas y le daremos nombre a las corrient
 Como segundo paso tenemos que analizar cada malla encontrada en el circuito anteriormente
 
 * MALLA 1
+
 ![image](https://user-images.githubusercontent.com/116779906/202570026-60c7985a-fe17-4e17-9adc-b0bc6a0a584e.png)
 
 * MALLA 2
+*
 ![image](https://user-images.githubusercontent.com/116779906/202570072-32cc663d-993a-4b3f-a849-d1f3c313cd92.png)
 
 
 * MALLA 3
+*
 ![image](https://user-images.githubusercontent.com/116779906/202570119-6b4ab084-0909-4603-bfab-b6cb7334147e.png)
 
 Podemos darnos cuenta que como resultado del análisis de las mallas obtuvimos un sistema de 3 ecuaciones con 3 incógnitas, para la resolución de esto utilizaremos una calculadora de ecuaciones en linea para obtener un resuLtado exacto 
