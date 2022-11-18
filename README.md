@@ -48,11 +48,16 @@ Podemos darnos cuenta que como resultado del análisis de las mallas obtuvimos u
 
 ![image](https://user-images.githubusercontent.com/116779906/202574438-8afa1581-a109-4528-b260-1c86400809f4.png)
 
+Ahora simulamos en tinkerkad el calculo de la intensaidad de la corriente 
+
+* Simulación en tinkerkad 
+![image](https://user-images.githubusercontent.com/116779906/202607803-d584d2fc-f040-4bad-a2bd-445aad417fd6.png)
+
 
 •	Tabla de los resultados analíticos y medidos .
 
 
-![image](https://user-images.githubusercontent.com/116779906/202575574-6e58fe7d-9375-42f3-8734-2cc0414f9755.png)
+![image](https://user-images.githubusercontent.com/116779906/202607694-814b04dc-d487-4568-95d1-96e7b5720886.png)
 
 
 ## 4. VIDEO
